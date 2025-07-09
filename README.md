@@ -1,6 +1,8 @@
 # ox_lib - Redesign
 
-## Redesign by Fjella at ensure
+## Redesign by Fjella at ensure 
+
+## If you like my work please support at https://ko-fi.com/fjellaa
 
 ![](https://ik.imagekit.io/itkomet/Ensure/ox_lib/input_dialog2.PNG?updatedAt=1752063639231)
 ![](https://ik.imagekit.io/itkomet/Ensure/ox_lib/context_menu.PNG?updatedAt=1752063639310)
